@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Elliot Anderson
+  description: "Configures System Hostname, including hosts"
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+    - name: Debian
+      versions: [all]
+    - name: Ubuntu
+      versions: [all]
+  categories:
+    - system
+dependencies: []
